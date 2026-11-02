@@ -24,7 +24,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | Ring Think | 2.4.0 | [RingThink_Manual_EN-FR.pdf](RingThink_Manual_EN-FR.pdf) | 2.4.0 |
 | Semitones | 1.5.1 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.5.1 |
 | Small Tone | 1.2.0 | [SmallTone_Manual_EN-FR.pdf](SmallTone_Manual_EN-FR.pdf) | 1.2.0 |
-| Strong Pickle | 1.2.3 | [StrongPickle_Manual_EN-FR.pdf](StrongPickle_Manual_EN-FR.pdf) | 1.2.3 |
+| Strong Pickle | 1.2.4 | [StrongPickle_Manual_EN-FR.pdf](StrongPickle_Manual_EN-FR.pdf) | 1.2.4 |
 | Textural | 1.2.0 | [Textural_Manual_EN-FR.pdf](Textural_Manual_EN-FR.pdf) | 1.2.0 |
 | Wharry | 1.9.0 | [Wharry_Manual_EN-FR.pdf](Wharry_Manual_EN-FR.pdf) | 1.9.0 |
 | Wack'd flangerus | 1.7.0 | [Wackd_Manual_EN-FR.pdf](Wackd_Manual_EN-FR.pdf) | 1.7.0 |
