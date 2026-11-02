@@ -10,7 +10,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | Crycat | 1.5.0 | [Crycat_Manual_EN-FR.pdf](Crycat_Manual_EN-FR.pdf) | 1.5.0 |
 | Doorn | 2.12.1 | [Doorn_Manual_EN-FR.pdf](Doorn_Manual_EN-FR.pdf) | 2.12.1 |
 | Echoflex | 1.4.1 | [Echoflex_Manual_EN-FR.pdf](Echoflex_Manual_EN-FR.pdf) | 1.4.1 |
-| Eight Echo | 1.8.2 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.8.2 |
+| Eight Echo | 1.8.3 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.8.3 |
 | Fantomine | 1.3.0 | [Fantomine_Manual_EN-FR.pdf](Fantomine_Manual_EN-FR.pdf) | 1.3.0 |
 | FreakOut | 1.1.0 | [FreakOut_Manual_EN-FR.pdf](FreakOut_Manual_EN-FR.pdf) | 1.1.0 |
 | FOG Z | 1.4.0 | [FogZ_Manual_EN-FR.pdf](FogZ_Manual_EN-FR.pdf) | 1.4.0 |
