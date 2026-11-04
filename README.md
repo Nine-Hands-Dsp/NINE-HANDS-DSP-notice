@@ -5,7 +5,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 
 | Plugin | Plugin actuel | Notice | Version de la notice |
 |---|---|---|---|
-| Anode | 1.0.1 | [Anode_Manual_EN-FR.pdf](Anode_Manual_EN-FR.pdf) | 1.0.1 |
+| Anode | 1.0.2 | [Anode_Manual_EN-FR.pdf](Anode_Manual_EN-FR.pdf) | 1.0.2 |
 | ARC | 2.7.1 | [ARC_Manual_EN-FR.pdf](ARC_Manual_EN-FR.pdf) | 2.7.1 |
 | Chroma (ex-Tuna) | 1.4.1 | [CHROMA_Manual_EN-FR.pdf](CHROMA_Manual_EN-FR.pdf) | 1.4.1 |
 | Crycat | 1.6.1 | [Crycat_Manual_EN-FR.pdf](Crycat_Manual_EN-FR.pdf) | 1.6.1 |
