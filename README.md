@@ -13,7 +13,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | Echoflex | 1.5.1 | [Echoflex_Manual_EN-FR.pdf](Echoflex_Manual_EN-FR.pdf) | 1.5.1 |
 | Eight Echo | 1.8.3 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.8.3 |
 | Fantomine | 1.4.1 | [Fantomine_Manual_EN-FR.pdf](Fantomine_Manual_EN-FR.pdf) | 1.4.1 |
-| Impulse | 1.3.0 | [Impulse_Manual_EN-FR.pdf](Impulse_Manual_EN-FR.pdf) | 1.3.0 |
+| Impulse | 1.4.0 | [Impulse_Manual_EN-FR.pdf](Impulse_Manual_EN-FR.pdf) | 1.4.0 |
 | FreakOut | 1.2.1 | [FreakOut_Manual_EN-FR.pdf](FreakOut_Manual_EN-FR.pdf) | 1.2.1 |
 | FOG Z | 1.5.1 | [FogZ_Manual_EN-FR.pdf](FogZ_Manual_EN-FR.pdf) | 1.5.1 |
 | Freeze Shimmer | 1.3.1 | [FreezeShimmer_Manual_EN-FR.pdf](FreezeShimmer_Manual_EN-FR.pdf) | 1.3.1 |
