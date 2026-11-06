@@ -1,7 +1,7 @@
-# Studio Wiga — Notices / User manuals
+# NINE HANDS | DSP — Notices / User manuals
 
-Notices bilingues (anglais + français) des plugins VST3 Studio Wiga.
-Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
+Notices bilingues (anglais + français) des plugins VST3 NINE HANDS | DSP.
+Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 
 | Plugin | Plugin actuel | Notice | Version de la notice |
 |---|---|---|---|
