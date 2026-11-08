@@ -26,7 +26,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Pipeline | 1.5.2 | [Pipeline_Manual_EN-FR.pdf](Pipeline_Manual_EN-FR.pdf) | 1.5.2 |
 | Phase 90 | 1.4.2 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.4.2 |
 | Ring Think | 2.5.1 | [RingThink_Manual_EN-FR.pdf](RingThink_Manual_EN-FR.pdf) | 2.5.1 |
-| Screamer | 1.3.1 | [Screamer_Manual_EN-FR.pdf](Screamer_Manual_EN-FR.pdf) | 1.3.1 |
+| Screamer | 1.3.2 | [Screamer_Manual_EN-FR.pdf](Screamer_Manual_EN-FR.pdf) | 1.3.2 |
 | Semitones | 1.6.1 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.6.1 |
 | Spindeck (notice en français uniquement) | 1.0.0 | [Spindeck_Notice_FR.pdf](Spindeck_Notice_FR.pdf) | 1.0.0 |
 | Small Tone | 1.3.2 | [SmallTone_Manual_EN-FR.pdf](SmallTone_Manual_EN-FR.pdf) | 1.3.2 |
