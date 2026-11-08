@@ -27,6 +27,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Phase 90 | 1.4.1 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.4.1 |
 | Ring Think | 2.5.0 | [RingThink_Manual_EN-FR.pdf](RingThink_Manual_EN-FR.pdf) | 2.5.0 |
 | Semitones | 1.6.0 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.6.0 |
+| Spindeck (notice en français uniquement) | 1.0.0 | [Spindeck_Notice_FR.pdf](Spindeck_Notice_FR.pdf) | 1.0.0 |
 | Small Tone | 1.3.1 | [SmallTone_Manual_EN-FR.pdf](SmallTone_Manual_EN-FR.pdf) | 1.3.1 |
 | Strong Pickle | 1.4.2 | [StrongPickle_Manual_EN-FR.pdf](StrongPickle_Manual_EN-FR.pdf) | 1.4.2 |
 | Textural | 1.3.1 | [Textural_Manual_EN-FR.pdf](Textural_Manual_EN-FR.pdf) | 1.3.1 |
