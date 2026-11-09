@@ -23,7 +23,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Octopus | 1.18.3 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.3 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.3 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.3 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
-| Pipeline | 1.5.2 | [Pipeline_Manual_EN-FR.pdf](Pipeline_Manual_EN-FR.pdf) | 1.5.2 |
+| Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
 | Phase 90 | 1.4.2 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.4.2 |
 | Ring Think | 2.5.1 | [RingThink_Manual_EN-FR.pdf](RingThink_Manual_EN-FR.pdf) | 2.5.1 |
 | Screamer | 1.3.2 | [Screamer_Manual_EN-FR.pdf](Screamer_Manual_EN-FR.pdf) | 1.3.2 |
