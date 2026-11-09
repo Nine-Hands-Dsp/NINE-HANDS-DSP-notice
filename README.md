@@ -15,7 +15,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Eight Echo | 1.8.4 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.8.4 |
 | Fantomine | 1.4.2 | [Fantomine_Manual_EN-FR.pdf](Fantomine_Manual_EN-FR.pdf) | 1.4.2 |
 | Impulse | 1.4.5 | [Impulse_Manual_EN-FR.pdf](Impulse_Manual_EN-FR.pdf) | 1.4.5 |
-| FreakOut | 1.3.0 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.0 |
+| FreakOut | 1.3.1 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.1 |
 | FOG Z | 1.5.1 | [FogZ_Manual_EN-FR.pdf](FogZ_Manual_EN-FR.pdf) | 1.5.1 |
 | Freeze Shimmer | 1.3.1 | [FreezeShimmer_Manual_EN-FR.pdf](FreezeShimmer_Manual_EN-FR.pdf) | 1.3.1 |
 | Holyverb | 1.5.1 | [Holyverb_Manual_EN-FR.pdf](Holyverb_Manual_EN-FR.pdf) | 1.5.1 |
