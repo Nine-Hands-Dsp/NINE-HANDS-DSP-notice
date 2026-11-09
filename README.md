@@ -1,6 +1,6 @@
 # NINE HANDS | DSP — Notices / User manuals
 
-Notices bilingues (anglais + français) des plugins VST3 NINE HANDS | DSP.
+Notices des plugins VST3 NINE HANDS | DSP : en français uniquement pour les nouvelles notices (anciennes notices bilingues anglais + français).
 Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 
 | Plugin | Plugin actuel | Notice | Version de la notice |
@@ -30,7 +30,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Semitones | 1.6.1 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.6.1 |
 | Spindeck (notice en français uniquement) | 1.0.0 | [Spindeck_Notice_FR.pdf](Spindeck_Notice_FR.pdf) | 1.0.0 |
 | Small Tone | 1.3.2 | [SmallTone_Manual_EN-FR.pdf](SmallTone_Manual_EN-FR.pdf) | 1.3.2 |
-| Strong Pickle | 1.5.0 | [StrongPickle_Manual_EN-FR.pdf](StrongPickle_Manual_EN-FR.pdf) | 1.5.0 |
+| Strong Pickle (notice en français uniquement) | 1.5.0 | [StrongPickle_Notice_FR.pdf](StrongPickle_Notice_FR.pdf) | 1.5.0 |
 | Textural | 1.3.1 | [Textural_Manual_EN-FR.pdf](Textural_Manual_EN-FR.pdf) | 1.3.1 |
 | Wharry | 1.10.2 | [Wharry_Manual_EN-FR.pdf](Wharry_Manual_EN-FR.pdf) | 1.10.2 |
 | Wack'd flangerus | 1.8.2 | [Wackd_Manual_EN-FR.pdf](Wackd_Manual_EN-FR.pdf) | 1.8.2 |
