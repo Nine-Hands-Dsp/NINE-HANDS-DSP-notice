@@ -6,7 +6,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Plugin | Plugin actuel | Notice | Version de la notice |
 |---|---|---|---|
 | Ampire (notice en français uniquement) | 1.0.0 | [Ampire_Notice_FR.pdf](Ampire_Notice_FR.pdf) | 1.0.0 |
-| Anode | 2.0.2 | [Anode_Notice_FR.pdf](Anode_Notice_FR.pdf) | 2.0.2 |
+| Anode | 2.0.3 | [Anode_Notice_FR.pdf](Anode_Notice_FR.pdf) | 2.0.3 |
 | ARC | 2.7.1 | [ARC_Manual_EN-FR.pdf](ARC_Manual_EN-FR.pdf) | 2.7.1 |
 | Chroma (ex-Tuna, notice en français uniquement) | 2.0.3 | [Chroma_Notice_FR.pdf](Chroma_Notice_FR.pdf) | 2.0.3 |
 | Crycat | 1.6.2 | [Crycat_Manual_EN-FR.pdf](Crycat_Manual_EN-FR.pdf) | 1.6.2 |
