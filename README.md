@@ -34,7 +34,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Strong Pickle (notice en français uniquement) | 1.5.3 | [StrongPickle_Notice_FR.pdf](StrongPickle_Notice_FR.pdf) | 1.5.3 |
 | Textural (notice en français uniquement) | 2.0.0 | [Textural_Notice_FR.pdf](Textural_Notice_FR.pdf) | 2.0.0 |
 | Wharry | 1.10.2 | [Wharry_Manual_EN-FR.pdf](Wharry_Manual_EN-FR.pdf) | 1.10.2 |
-| Wack'd flangerus | 2.0.1 | [Wackd_Notice_FR.pdf](Wackd_Notice_FR.pdf) | 2.0.1 |
+| Wack'd flangerus | 2.0.2 | [Wackd_Notice_FR.pdf](Wackd_Notice_FR.pdf) | 2.0.2 |
 
 Toutes les notices (sauf Octopus) sont à jour au 3 novembre 2026 : clic droit > Plugin size (60 % / 75 % / 100 %) avec
 Default size (new windows) pour choisir la taille d'ouverture des nouvelles fenêtres ; MIDI Learn sans aucun CC assigné
