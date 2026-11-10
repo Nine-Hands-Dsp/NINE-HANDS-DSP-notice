@@ -18,10 +18,10 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Impulse | 1.5.4 | [Impulse_Notice_FR.pdf](Impulse_Notice_FR.pdf) | 1.5.4 |
 | FreakOut | 1.3.5 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.5 |
 | FOG Z | 1.5.1 | [FogZ_Manual_EN-FR.pdf](FogZ_Manual_EN-FR.pdf) | 1.5.1 |
-| Freeze Shimmer | 1.3.1 | [FreezeShimmer_Manual_EN-FR.pdf](FreezeShimmer_Manual_EN-FR.pdf) | 1.3.1 |
+| Freeze Shimmer (notice en français uniquement) | 1.4.0 | [FreezeShimmer_Notice_FR.pdf](FreezeShimmer_Notice_FR.pdf) | 1.4.0 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
-| Octopus | 1.18.13 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
+| Octopus | 1.18.15 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.13 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.11 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
