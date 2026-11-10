@@ -20,7 +20,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | FOG Z | 1.5.1 | [FogZ_Manual_EN-FR.pdf](FogZ_Manual_EN-FR.pdf) | 1.5.1 |
 | Freeze Shimmer | 1.3.1 | [FreezeShimmer_Manual_EN-FR.pdf](FreezeShimmer_Manual_EN-FR.pdf) | 1.3.1 |
 | Holyverb | 1.5.1 | [Holyverb_Manual_EN-FR.pdf](Holyverb_Manual_EN-FR.pdf) | 1.5.1 |
-| NGATE | 1.5.2 | [NGATE_Manual_EN-FR.pdf](NGATE_Manual_EN-FR.pdf) | 1.5.2 |
+| Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
 | Octopus | 1.18.6 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.5 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.6 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.5 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
