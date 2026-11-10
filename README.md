@@ -11,7 +11,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Chroma (ex-Tuna, notice en français uniquement) | 2.0.3 | [Chroma_Notice_FR.pdf](Chroma_Notice_FR.pdf) | 2.0.3 |
 | Crycat | 1.6.2 | [Crycat_Manual_EN-FR.pdf](Crycat_Manual_EN-FR.pdf) | 1.6.2 |
 | Darkbass | 1.1.4 | [Darkbass_Notice_FR.pdf](Darkbass_Notice_FR.pdf) | 1.1.4 |
-| Doorn (notice en français uniquement) | 3.1.0 | [Doorn_Notice_FR.pdf](Doorn_Notice_FR.pdf) | 3.1.0 |
+| Doorn (notice en français uniquement) | 3.2.0 | [Doorn_Notice_FR.pdf](Doorn_Notice_FR.pdf) | 3.2.0 |
 | Echoflex (notice en français uniquement) | 2.0.0 | [Echoflex_Notice_FR.pdf](Echoflex_Notice_FR.pdf) | 2.0.0 |
 | Eight Echo | 1.8.4 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.8.4 |
 | Fantomine | 1.4.2 | [Fantomine_Manual_EN-FR.pdf](Fantomine_Manual_EN-FR.pdf) | 1.4.2 |
