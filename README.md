@@ -13,7 +13,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Darkbass | 1.1.4 | [Darkbass_Notice_FR.pdf](Darkbass_Notice_FR.pdf) | 1.1.4 |
 | Doorn (notice en français uniquement) | 3.2.0 | [Doorn_Notice_FR.pdf](Doorn_Notice_FR.pdf) | 3.2.0 |
 | Echoflex (notice en français uniquement) | 2.0.0 | [Echoflex_Notice_FR.pdf](Echoflex_Notice_FR.pdf) | 2.0.0 |
-| Eight Echo | 1.8.4 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.8.4 |
+| Eight Echo (notice en français uniquement) | 2.0.1 | [EightEcho_Notice_FR.pdf](EightEcho_Notice_FR.pdf) | 2.0.1 |
 | Fantomine | 1.4.2 | [Fantomine_Manual_EN-FR.pdf](Fantomine_Manual_EN-FR.pdf) | 1.4.2 |
 | Impulse | 1.5.4 | [Impulse_Notice_FR.pdf](Impulse_Notice_FR.pdf) | 1.5.4 |
 | FreakOut | 1.3.5 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.5 |
@@ -21,8 +21,8 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Freeze Shimmer | 1.3.1 | [FreezeShimmer_Manual_EN-FR.pdf](FreezeShimmer_Manual_EN-FR.pdf) | 1.3.1 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
-| Octopus | 1.18.8 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.5 |
-| Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.8 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.5 |
+| Octopus | 1.18.9 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.5 |
+| Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.9 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.5 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
 | Phase 90 | 1.4.2 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.4.2 |
