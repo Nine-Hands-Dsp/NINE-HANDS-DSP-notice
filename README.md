@@ -21,8 +21,8 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Freeze Shimmer | 1.3.1 | [FreezeShimmer_Manual_EN-FR.pdf](FreezeShimmer_Manual_EN-FR.pdf) | 1.3.1 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
-| Octopus | 1.18.9 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.5 |
-| Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.9 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.5 |
+| Octopus | 1.18.10 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.5 |
+| Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.10 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.5 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
 | Phase 90 | 1.4.2 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.4.2 |
