@@ -30,7 +30,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Screamer | 1.3.5 | [Screamer_Notice_FR.pdf](Screamer_Notice_FR.pdf) | 1.3.5 |
 | Semitones | 1.6.1 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.6.1 |
 | Spindeck (notice en français uniquement) | 1.0.0 | [Spindeck_Notice_FR.pdf](Spindeck_Notice_FR.pdf) | 1.0.0 |
-| Small Tone | 1.3.2 | [SmallTone_Manual_EN-FR.pdf](SmallTone_Manual_EN-FR.pdf) | 1.3.2 |
+| Small Tone (notice en français uniquement) | 2.0.0 | [SmallTone_Notice_FR.pdf](SmallTone_Notice_FR.pdf) | 2.0.0 |
 | Strong Pickle (notice en français uniquement) | 1.5.3 | [StrongPickle_Notice_FR.pdf](StrongPickle_Notice_FR.pdf) | 1.5.3 |
 | Textural | 1.3.1 | [Textural_Manual_EN-FR.pdf](Textural_Manual_EN-FR.pdf) | 1.3.1 |
 | Wharry | 1.10.2 | [Wharry_Manual_EN-FR.pdf](Wharry_Manual_EN-FR.pdf) | 1.10.2 |
