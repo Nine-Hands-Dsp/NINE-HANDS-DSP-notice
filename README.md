@@ -24,7 +24,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
 | Octopus | 1.18.43 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.13 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.11 |
-| Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
+| Peachy | 2.0.0 | [Peachy_Notice_FR.pdf](Peachy_Notice_FR.pdf) | 2.0.0 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
 | Phase 90 | 2.0.0 | [Phase90_Notice_FR.pdf](Phase90_Notice_FR.pdf) | 2.0.0 |
 | Ring Think | 3.0.3 | [RingThink_Notice_FR.pdf](RingThink_Notice_FR.pdf) | 3.0.3 |
