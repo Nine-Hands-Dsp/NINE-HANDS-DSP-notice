@@ -21,12 +21,12 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Freeze Shimmer (notice en français uniquement) | 1.4.1 | [FreezeShimmer_Notice_FR.pdf](FreezeShimmer_Notice_FR.pdf) | 1.4.1 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
-| Octopus | 1.18.20 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
+| Octopus | 1.18.21 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.13 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.11 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
 | Phase 90 | 2.0.0 | [Phase90_Notice_FR.pdf](Phase90_Notice_FR.pdf) | 2.0.0 |
-| Ring Think | 3.0.1 | [RingThink_Notice_FR.pdf](RingThink_Notice_FR.pdf) | 3.0.1 |
+| Ring Think | 3.0.2 | [RingThink_Notice_FR.pdf](RingThink_Notice_FR.pdf) | 3.0.2 |
 | Screamer | 1.3.5 | [Screamer_Notice_FR.pdf](Screamer_Notice_FR.pdf) | 1.3.5 |
 | Semitones | 2.0.0 | [Semitones_Notice_FR.pdf](Semitones_Notice_FR.pdf) | 2.0.0 |
 | Spindeck (notice en français uniquement) | 1.0.0 | [Spindeck_Notice_FR.pdf](Spindeck_Notice_FR.pdf) | 1.0.0 |
