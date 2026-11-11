@@ -9,7 +9,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Anode | 2.0.4 | [Anode_Notice_FR.pdf](Anode_Notice_FR.pdf) | 2.0.4 |
 | ARC | 3.0.0 | [ARC_Notice_FR.pdf](ARC_Notice_FR.pdf) | 3.0.0 |
 | Chroma (ex-Tuna, notice en français uniquement) | 2.0.3 | [Chroma_Notice_FR.pdf](Chroma_Notice_FR.pdf) | 2.0.3 |
-| Crycat | 1.6.2 | [Crycat_Manual_EN-FR.pdf](Crycat_Manual_EN-FR.pdf) | 1.6.2 |
+| Crycat | 2.0.0 | [Crycat_Notice_FR.pdf](Crycat_Notice_FR.pdf) | 2.0.0 |
 | Darkbass | 1.1.4 | [Darkbass_Notice_FR.pdf](Darkbass_Notice_FR.pdf) | 1.1.4 |
 | Doorn (notice en français uniquement) | 3.2.0 | [Doorn_Notice_FR.pdf](Doorn_Notice_FR.pdf) | 3.2.0 |
 | Echoflex (notice en français uniquement) | 2.0.0 | [Echoflex_Notice_FR.pdf](Echoflex_Notice_FR.pdf) | 2.0.0 |
