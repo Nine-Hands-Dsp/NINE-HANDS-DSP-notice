@@ -22,7 +22,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Freeze Shimmer (notice en français uniquement) | 1.4.1 | [FreezeShimmer_Notice_FR.pdf](FreezeShimmer_Notice_FR.pdf) | 1.4.1 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
-| Octopus | 1.18.42 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
+| Octopus | 1.18.43 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.13 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.11 |
 | Peachy | 1.6.2 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.6.2 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
@@ -31,7 +31,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Screamer | 1.3.5 | [Screamer_Notice_FR.pdf](Screamer_Notice_FR.pdf) | 1.3.5 |
 | Semitones | 2.0.0 | [Semitones_Notice_FR.pdf](Semitones_Notice_FR.pdf) | 2.0.0 |
 | Spindeck (notice en français uniquement) | 1.0.0 | [Spindeck_Notice_FR.pdf](Spindeck_Notice_FR.pdf) | 1.0.0 |
-| Small Tone (notice en français uniquement) | 2.0.0 | [SmallTone_Notice_FR.pdf](SmallTone_Notice_FR.pdf) | 2.0.0 |
+| Small Tone (notice en français uniquement) | 2.0.1 | [SmallTone_Notice_FR.pdf](SmallTone_Notice_FR.pdf) | 2.0.1 |
 | Strong Pickle (notice en français uniquement) | 1.5.3 | [StrongPickle_Notice_FR.pdf](StrongPickle_Notice_FR.pdf) | 1.5.3 |
 | Synthetika (notice en français uniquement) | 1.2.1 | [Synthetika_Notice_FR.pdf](Synthetika_Notice_FR.pdf) | 1.2.1 |
 | Textural (notice en français uniquement) | 2.0.0 | [Textural_Notice_FR.pdf](Textural_Notice_FR.pdf) | 2.0.0 |
