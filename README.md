@@ -7,7 +7,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 |---|---|---|---|
 | Ampire (notice en français uniquement) | 1.1.4 | [Ampire_Notice_FR.pdf](Ampire_Notice_FR.pdf) | 1.1.4 |
 | Anode | 2.0.5 | [Anode_Notice_FR.pdf](Anode_Notice_FR.pdf) | 2.0.5 |
-| ARC | 3.1.1 | [ARC_Notice_FR.pdf](ARC_Notice_FR.pdf) | 3.1.1 |
+| ARC | 3.1.2 | [ARC_Notice_FR.pdf](ARC_Notice_FR.pdf) | 3.1.2 |
 | Chroma (ex-Tuna, notice en français uniquement) | 2.0.3 | [Chroma_Notice_FR.pdf](Chroma_Notice_FR.pdf) | 2.0.3 |
 | Crycat | 2.0.0 | [Crycat_Notice_FR.pdf](Crycat_Notice_FR.pdf) | 2.0.0 |
 | Darkbass | 1.1.5 | [Darkbass_Notice_FR.pdf](Darkbass_Notice_FR.pdf) | 1.1.5 |
@@ -22,7 +22,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Freeze Shimmer (notice en français uniquement) | 1.4.1 | [FreezeShimmer_Notice_FR.pdf](FreezeShimmer_Notice_FR.pdf) | 1.4.1 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
-| Octopus | 1.18.45 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
+| Octopus | 1.18.46 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.11 |
 | Octopus : guide MIDI et CC / MIDI and CC guide | 1.18.13 | [Octopus_MIDI_Guide_EN-FR.pdf](Octopus_MIDI_Guide_EN-FR.pdf) | 1.18.11 |
 | Peachy | 2.0.0 | [Peachy_Notice_FR.pdf](Peachy_Notice_FR.pdf) | 2.0.0 |
 | Pipeline | 1.6.0 | [Pipeline_Notice_FR.pdf](Pipeline_Notice_FR.pdf) | 1.6.0 |
