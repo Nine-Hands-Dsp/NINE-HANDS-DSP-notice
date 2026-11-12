@@ -5,7 +5,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 
 | Plugin | Plugin actuel | Notice | Version de la notice |
 |---|---|---|---|
-| Ampire (notice en français uniquement) | 1.1.9 | [Ampire_Notice_FR.pdf](Ampire_Notice_FR.pdf) | 1.1.9 |
+| Ampire (notice en français uniquement) | 1.1.10 | [Ampire_Notice_FR.pdf](Ampire_Notice_FR.pdf) | 1.1.10 |
 | Anode | 2.0.5 | [Anode_Notice_FR.pdf](Anode_Notice_FR.pdf) | 2.0.5 |
 | ARC | 3.1.2 | [ARC_Notice_FR.pdf](ARC_Notice_FR.pdf) | 3.1.2 |
 | Chroma (ex-Tuna, notice en français uniquement) | 2.0.3 | [Chroma_Notice_FR.pdf](Chroma_Notice_FR.pdf) | 2.0.3 |
@@ -15,7 +15,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Echoflex (notice en français uniquement) | 2.0.0 | [Echoflex_Notice_FR.pdf](Echoflex_Notice_FR.pdf) | 2.0.0 |
 | Eight Echo (notice en français uniquement) | 2.0.1 | [EightEcho_Notice_FR.pdf](EightEcho_Notice_FR.pdf) | 2.0.1 |
 | Fantomine | 2.0.0 | [Fantomine_Notice_FR.pdf](Fantomine_Notice_FR.pdf) | 2.0.0 |
-| Impulse | 1.5.5 | [Impulse_Notice_FR.pdf](Impulse_Notice_FR.pdf) | 1.5.5 |
+| Impulse | 1.5.6 | [Impulse_Notice_FR.pdf](Impulse_Notice_FR.pdf) | 1.5.6 |
 | FM-9 (notice en français uniquement) | 1.3.10 | [FM-9_Notice_FR.pdf](FM-9_Notice_FR.pdf) | 1.3.10 |
 | FreakOut | 1.3.5 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.5 |
 | FOG Z | 2.0.0 | [FogZ_Notice_FR.pdf](FogZ_Notice_FR.pdf) | 2.0.0 |
