@@ -15,7 +15,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | Echoflex (notice en français uniquement) | 2.0.0 | [Echoflex_Notice_FR.pdf](Echoflex_Notice_FR.pdf) | 2.0.0 |
 | Eight Echo (notice en français uniquement) | 2.0.1 | [EightEcho_Notice_FR.pdf](EightEcho_Notice_FR.pdf) | 2.0.1 |
 | Fantomine | 2.0.0 | [Fantomine_Notice_FR.pdf](Fantomine_Notice_FR.pdf) | 2.0.0 |
-| Impulse | 1.5.8 | [Impulse_Notice_FR.pdf](Impulse_Notice_FR.pdf) | 1.5.8 |
+| Impulse | 1.5.9 | [Impulse_Notice_FR.pdf](Impulse_Notice_FR.pdf) | 1.5.9 |
 | FM-9 (notice en français uniquement) | 1.3.12 | [FM-9_Notice_FR.pdf](FM-9_Notice_FR.pdf) | 1.3.12 |
 | FreakOut | 1.3.5 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.5 |
 | FOG Z | 2.0.0 | [FogZ_Notice_FR.pdf](FogZ_Notice_FR.pdf) | 2.0.0 |
