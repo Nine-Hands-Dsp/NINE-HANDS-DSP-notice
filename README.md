@@ -19,7 +19,7 @@ Bilingual (English + French) user manuals for the NINE HANDS | DSP VST3 plugins.
 | FM-9 (notice en français uniquement) | 1.3.19 | [FM-9_Notice_FR.pdf](FM-9_Notice_FR.pdf) | 1.3.19 |
 | FreakOut | 1.3.5 | [FreakOut_Notice_FR.pdf](FreakOut_Notice_FR.pdf) | 1.3.5 |
 | FOG Z | 2.0.0 | [FogZ_Notice_FR.pdf](FogZ_Notice_FR.pdf) | 2.0.0 |
-| Freeze Shimmer (notice en français uniquement) | 1.4.1 | [FreezeShimmer_Notice_FR.pdf](FreezeShimmer_Notice_FR.pdf) | 1.4.1 |
+| Freeze Shimmer (notice en français uniquement) | 1.5.1 | [FreezeShimmer_Notice_FR.pdf](FreezeShimmer_Notice_FR.pdf) | 1.5.1 |
 | Holyverb (notice en français uniquement) | 1.6.0 | [Holyverb_Notice_FR.pdf](Holyverb_Notice_FR.pdf) | 1.6.0 |
 | Ngate (notice en français uniquement) | 2.0.0 | [Ngate_Notice_FR.pdf](Ngate_Notice_FR.pdf) | 2.0.0 |
 | Octopus | 1.18.66 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.18.66 |
